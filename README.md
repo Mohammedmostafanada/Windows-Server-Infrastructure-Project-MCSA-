@@ -15,9 +15,8 @@ For detailed step-by-step implementation: 👉 [View Full Project Documentation 
 
 ## Architecture Diagram
 
-![Domain Architecture](./architecture.png)
+![Domain Architecture](images/architecture.png)
 
-> **Note:** Save your architecture diagram as `architecture.png` in the root of the repository for the image above to render correctly.
 
 ---
 
